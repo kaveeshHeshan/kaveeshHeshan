@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h1>
 <h3>🛠️ Tech Stack & Tools</h3>
-
+<a href="https://github.com/[username]"><img src="https://img.shields.io/github/followers/[username]?style=for-the-badge&logo=github&label=Followers&color=161B22" /></a>
 **🔹 Core Ecosystem**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,tailwind,bootstrap,php,laravel,python,nodejs,aws,mysql,postgresql,docker,git,githubactions,vscode&theme=dark&perline=15" />
