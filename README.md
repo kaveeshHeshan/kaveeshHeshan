@@ -36,11 +36,21 @@ and further their success and to improve the skills and the talent.
                         <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,postgresql,mysql&theme=dark&perline=3">
                     </td>
                     <td align="center" style="border-left:none !important;border-right:none !important;">
-                        <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,vscode&theme=dark&perline=3" />
+                        <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode&theme=dark&perline=3" />
                     </td>
                 </tr>
         </tbody>
     </table>
+</p>
+
+<p>
+    <span><b>Current Status :  </b><span><b>AI enhanced LMS</b> with users' privacy first and no API billing.</span></span>
+    <br>
+    <span><b>Self Learning Tech Stack :  </span>
+</p>
+
+<p style="position: relative; margin-left:200px;">
+    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,fastapi&theme=dark&perline=3">
 </p>
 
 <p align="center">
