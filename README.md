@@ -43,14 +43,31 @@ and further their success and to improve the skills and the talent.
     </table>
 </p>
 
-<p>
-    <span><b>Current Status :  </b><span><b>AI enhanced LMS</b> with users' privacy first and no API billing.</span></span>
-    <br>
-    <span><b>Self Learning Tech Stack :  </span>
-</p>
+<h3 align="center">💼 Current Work</h3>
 
-<p style="position: relative; margin-left:200px;">
-    <img src="https://skillicons.dev/icons?i=nextjs,nestjs,fastapi&theme=dark&perline=3">
+<p align="center">
+    <table align="center" width="100%">
+        <tbody>
+                <tr>
+                    <td align="left" width="35%" style="border-left:none !important;border-right:none !important;">
+                    <span><b>Current Status :  </b><span>
+                    </td>
+                    <td align="left" style="border-left:none !important;border-right:none !important;">
+                        <b>AI enhanced LMS</b> with users' privacy first and no API billing.
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left" width="35%" style="border-left:none !important;border-right:none !important;">
+                    <span><b>Self Learning Tech Stack :  </b><span>
+                    </td>
+                    <td align="left" style="border-left:none !important;border-right:none !important;">
+                        <p style="position: relative; margin-top:20px;">
+                            <img src="https://skillicons.dev/icons?i=nextjs,nestjs,fastapi&theme=dark&perline=3">
+                        </p>
+                    </td>
+                </tr>
+        </tbody>
+    </table>
 </p>
 
 <p align="center">
