@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h1>
-### 🛠️ Tech Stack & Tools
+<h3>🛠️ Tech Stack & Tools</h3>
 
 **🔹 Core Ecosystem**
 <p align="center">
