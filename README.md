@@ -1,15 +1,7 @@
 <h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h1>
-<p align="center">
-    A bright and talented graduate at Sri Lanka Institute of Information
-Technology (SLIIT) with a passion for developing innovative programs
-that expedite the efficiency and effectiveness of organizational success.
-Well-versed in technology and writing code to create systems that are
-reliable and user-friendly who is looking to join a commercially focused,
-forward thinking company. Confident communicator, strategic thinker,
-and innovative creator to develop software that is customized to meet a
-company’s organizational needs, highlight their core competencies,
-and further their success and to improve the skills and the talent.
+<p style="text-align: center;">
+    A bright and talented Software engineer with a passion for developing innovative programs with a clean, interactive and impressive that expedite the efficiency and effectiveness of organizational success.
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/kaveesh-heshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
