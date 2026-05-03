@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h1>
-<a href="https://github.com/[username]"><img src="https://img.shields.io/github/followers/[username]?style=for-the-badge&logo=github&label=Followers&color=161B22" /></a>
-<a href="https://linkedin.com/in/[profile]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br>
+<a href="https://linkedin.com/in/kaveesh-heshan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kaveeshheshan95@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kaveeshheshan.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <h3>🛠️ Tech Stack & Tools</h3>
 
 🔹 Core Ecosystem
