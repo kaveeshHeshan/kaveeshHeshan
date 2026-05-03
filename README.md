@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h1>
-<p style="text-align: center;">
+<p align="center">
     A bright and talented Software engineer with a passion for developing innovative programs with a clean, interactive and impressive that expedite the efficiency and effectiveness of organizational success.
 </p>
 <p align="center">
