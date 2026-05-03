@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
+<h3 align="center">Full-Stack Developer | Software Engineer</h1>
 
 <!--
 **kaveeshHeshan/kaveeshHeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
