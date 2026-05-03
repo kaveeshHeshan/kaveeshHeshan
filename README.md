@@ -32,6 +32,23 @@
     </table>
 </p>
 
+### 📊 Stats & Activity
+<table>
+  <tr>
+    <td width="50%">
+      <p><b>📈 Profile Stats</b></p>
+      <img src="https://img.shields.io/github/stars/[username]?style=flat&logo=github&label=Total+Stars&color=blue" />
+      <img src="https://img.shields.io/github/repositories/[username]?style=flat&logo=github&label=Repos&color=green" />
+      <img src="https://img.shields.io/github/followers/[username]?style=flat&logo=github&label=Followers" />
+    </td>
+    <td width="50%">
+      <p><b>🔥 Contribution Heatmap</b></p>
+      <!-- ghchart is reliable and doesn't require Vercel -->
+      <img src="https://ghchart.rshah.org/[username]" alt="Contribution Chart" />
+    </td>
+  </tr>
+</table>
+
 <!--
 **kaveeshHeshan/kaveeshHeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
