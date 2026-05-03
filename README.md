@@ -24,7 +24,7 @@ and further their success and to improve the skills and the talent.
             <tr>
                 <td style="border-left:none;border-right:none;"><b>🎨 Frontend</b></td>
                 <td style="border-left:none;border-right:none;"><b>⚙️ Backend & DB</b></td>
-                <td style="border-left:none;border-right:none;"><b>☁️ Cloud & DevOps</b></td>
+                <td style="border-left:none;border-right:none;"><b>☁️ Cloud & DevOps, Version Control</b></td>
             </tr>
         </thead>
         <tbody>
@@ -36,7 +36,7 @@ and further their success and to improve the skills and the talent.
                         <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,postgresql,mysql&theme=dark&perline=3">
                     </td>
                     <td align="center" style="border-left:none !important;border-right:none !important;">
-                        <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode&theme=dark&perline=3" />
+                        <img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions,vscode&theme=dark&perline=3" />
                     </td>
                 </tr>
         </tbody>
