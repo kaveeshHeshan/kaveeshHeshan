@@ -1,6 +1,11 @@
 <h1 align="center">Hi👋, I'm Kavesh Heshan</h1>
 <h3 align="center">Full-Stack Developer | Software Engineer</h1>
+### 🛠️ Tech Stack & Tools
 
+**🔹 Core Ecosystem**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,tailwind,bootstrap,php,laravel,python,nodejs,aws,mysql,postgresql,docker,git,githubactions,vscode&theme=dark&perline=8" />
+</p>
 <!--
 **kaveeshHeshan/kaveeshHeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
