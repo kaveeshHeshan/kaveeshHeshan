@@ -11,20 +11,20 @@
     <table align="center" width="100%">
         <thead>
             <tr>
-                <td><b>🎨 Frontend</b></td>
-                <td><b>⚙️ Backend & DB</b></td>
-                <td><b>☁️ Cloud & DevOps</b></td>
+                <td style="border-left:none;border-right:none;"><b>🎨 Frontend</b></td>
+                <td style="border-left:none;border-right:none;"><b>⚙️ Backend & DB</b></td>
+                <td style="border-left:none;border-right:none;"><b>☁️ Cloud & DevOps</b></td>
             </tr>
         </thead>
         <tbody>
                 <tr>
-                    <td align="center"><br>
+                    <td align="center" style="border-left:none;border-right:none;"><br>
                         <img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind,bootstrap,react,vue,ts&theme=dark&perline=3" />
                     </td>
-                    <td align="center" width="33%">
+                    <td align="center" style="border-left:none;border-right:none;">
                         <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,postgresql,mysql&theme=dark&perline=3">
                     </td>
-                    <td align="center">
+                    <td align="center" style="border-left:none;border-right:none;">
                         <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode&theme=dark&perline=3" />
                     </td>
                 </tr>
@@ -32,34 +32,7 @@
     </table>
 </p>
 
-### 📊 Stats & Activity
-<table>
-  <tr>
-    <td width="50%">
-      <p><b>📈 Profile Stats</b></p>
-      <img src="https://img.shields.io/github/stars/[username]?style=flat&logo=github&label=Total+Stars&color=blue" />
-      <img src="https://img.shields.io/github/repositories/[username]?style=flat&logo=github&label=Repos&color=green" />
-      <img src="https://img.shields.io/github/followers/[username]?style=flat&logo=github&label=Followers" />
-    </td>
-    <td width="50%">
-      <p><b>🔥 Contribution Heatmap</b></p>
-      <!-- ghchart is reliable and doesn't require Vercel -->
-      <img src="https://ghchart.rshah.org/[username]" alt="Contribution Chart" />
-    </td>
-  </tr>
-</table>
-
-<!--
-**kaveeshHeshan/kaveeshHeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <span>Thanks for visiting! If you find my work useful, consider leaving a ⭐ on my repos.</span><br>
+  <small>🤝 Open to collaborations • 📬 <code>kaveeshheshan95@gmail.com</code></small>
+</p>
