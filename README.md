@@ -19,7 +19,7 @@ and further their success and to improve the skills and the talent.
 
 <h3 align="center">🛠️ My Tech Stack & Tools</h3>
 <p align="center">
-    <table align="center" width="100%">
+    <table align="center" width="100%" style="border-radius: 20px;">
         <thead>
             <tr>
                 <td style="border-left:none;border-right:none;"><b>🎨 Frontend</b></td>
