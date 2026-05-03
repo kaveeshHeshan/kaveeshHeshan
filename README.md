@@ -8,7 +8,8 @@
 <h3>🛠️ Tech Stack & Tools</h3>
 🔹 Core Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,tailwind,bootstrap,php,laravel,python,nodejs,aws,mysql,postgresql,docker,git,githubactions,vscode&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,vue,ts,tailwind,bootstrap,php,laravel,python,nodejs,aws&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=postgresql,docker,git,githubactions,vscode&theme=dark&perline=15" />
 </p>
 <!--
 **kaveeshHeshan/kaveeshHeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
