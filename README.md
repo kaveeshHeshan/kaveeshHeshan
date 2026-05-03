@@ -24,7 +24,7 @@ and further their success and to improve the skills and the talent.
             <tr>
                 <td style="border-left:none;border-right:none;"><b>🎨 Frontend</b></td>
                 <td style="border-left:none;border-right:none;"><b>⚙️ Backend & DB</b></td>
-                <td style="border-left:none;border-right:none;"><b>☁️ Cloud & DevOps, Version Control</b></td>
+                <td style="border-left:none;border-right:none;"><b>☁️ Cloud & DevOps</b></td>
             </tr>
         </thead>
         <tbody>
